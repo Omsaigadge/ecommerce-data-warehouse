@@ -14,14 +14,14 @@ Objectives:
 4. sql based transformation
 5. data quality checks
 6. analytical datasets
-7. document the architecture and design 
+7. document the architecture and design
 8. project tracking and versioning
 
 
 
 
 
-Raw-data -> staging -> dims and facts -> analytics -> bi/reporting 
+Raw-data -> staging -> dims and facts -> analytics -> bi/reporting
 
 
 
